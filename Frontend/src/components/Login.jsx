@@ -18,7 +18,7 @@ export default function Login({ isModalOpen, closeModal }) {
     };
     try {
       const res = await axios.post(
-        "http://localhost:4001/user/login",
+        "http://https://book-nook-api-tawny.vercel.app/user/login",
         userInfo
       );
       console.log(res.data);
