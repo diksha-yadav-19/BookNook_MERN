@@ -1,0 +1,154 @@
+[
+   {
+    "id": 1,
+    "name": "George Matthew",
+    "title": "You Can",
+    "price": 0,
+    "category": "Inspiring",
+    "image": "https://img.etimg.com/photo/msid-102177218,imgsize-235452/YouCan%2CbyGeorgeMatthewAdams.jpg",
+    "url":"https://archive.org/details/YouCan_263/page/n7/mode/2upi"
+  },
+  {
+    "id": 2,
+    "name": "James Clear",
+    "title": "Transform your life with Atomic Habits",
+    "price": 0,
+    "category": "HelpBook",
+    "image": "https://m.media-amazon.com/images/I/61M6KzUbf7L._AC_UF350,350_QL80_.jpg",
+    "url":"https://archive.org/details/atomic-habits-pdfdrive/page/n125/mode/2up"
+  },
+  {
+    "id": 3,
+    "name": "Jacqui Letran",
+    "title": "I would, but MY DAMN MIND won't let me!",
+    "price": 27,
+    "category": "Nonfiction",
+    "image": "https://shop.jacquiletran.com/cdn/shop/files/iwouldbutmydamnmindwontletmejournalforadults-434354_7711f137-a883-49dd-b010-0fdd4c89cbdd.jpg?v=1698637123&width=1080",
+    "url":"https://www.amazon.in/would-but-DAMN-MIND-wont/dp/099762440X"
+  },
+  {
+    "id": 4,
+    "name": "J.K. Rowling",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "price": 5,
+    "category": "Teen & Young",
+    "image": "https://www.little-linguist.co.uk/user/products/large/3347-Harry-Potter-Italian-1.jpg",
+    "url":"https://www.amazon.in/dp/0751565369/ref=asc_df_0751565369/?tag=googleshopmob-21&gad_source=1"
+
+  },
+ 
+  {
+    "id": 5,
+    "name": "Giovanni Dienstmann",
+    "title": "Self-Discipline",
+    "price": 9,
+    "category": "Willpower",
+    "image": "https://images-platform.99static.com/Z58vuB3buxKlp0W80rGGyOmRMOU=/0x0:1667x1667/500x500/top/smart/99designs-contests-attachments/124/124625/attachment_124625281",
+    "url":"https://www.goodreads.com/book/show/58040483-mindful-self-discipline"
+  },
+  {
+    "id": 6,
+    "name": "Gaur Gopal Das ",
+    "title": "Life's Amazing Secrets",
+    "price": 3.37,
+    "category": "Human mind",
+    "image":"https://pjwalebaabu.files.wordpress.com/2020/03/92504-whatsapp2bimage2b2019-03-042bat2b14.44.51.jpeg",
+    "url": "https://www.amazon.in/dp/0143450832/ref=asc_df_0143450832/?tag=googleshopmob-21&gad_source=1"
+  },
+  {
+    "id": 7,
+    "name": "Gabrielle-Suzanne",
+    "title": "Beauty and the Beast",
+    "price": 0,
+    "category": "Fantasy",
+    "image": "https://m.media-amazon.com/images/I/71krbw5ntqL._AC_UF1000,1000_QL80_.jpg",
+    "url":"https://manybooks.net/titles/anon1996719967-8.html"
+  },
+  {
+    "id": 8,
+    "name": "P.D. Quaver",
+    "title": "The Ordeals of Elly Robin",
+    "price": 0.99,
+    "category": "Teen & Young Adult",
+    "image": "https://m.media-amazon.com/images/I/81qaVKlpkaL._SY466_.jpg",
+    "url":"https://www.amazon.com/Elly-Robin-Wonderchild-Ordeals-Book-ebook/dp/B00XVCXRI6"
+  },
+  {
+    "id": 9,
+    "name": "Thinknetic",
+    "title": "The Intelligent Reader’s Guide",
+    "price": 7.99,
+    "category": "Non-Fiction",
+    "image": "https://m.media-amazon.com/images/I/71FTqd90WJL._SY466_.jpg",
+    "url":"https://www.amazon.com/dp/B0BRXZ1XQ1"
+  },
+  {
+    "id": 10,
+    "name": "Bram Stroke",
+    "title": "Dracula",
+    "price": 0,
+    "category": "Horror",
+    "image": "https://cdn.kobo.com/book-images/337e35ae-64eb-410c-9472-814746b3f586/1200/1200/False/dracula-173.jpg",
+    "url":"https://manybooks.net/titles/stokerbretext95dracu12.html"
+  },
+   
+   {
+    "id":11,
+    "name": "H. G. Wells",
+    "title":"The Invisible Man",
+    "price":0,
+    "category":"Fiction",
+    "image":"https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630661776i/17184.jpg",
+    "url":"https://manybooks.net/titles/wellshgetext04nvsbl10.html"
+
+    
+  },
+  {
+    "id":12,
+    "name": "H. G. Wells",
+    "title":"The Time Machine",
+    "price":0,
+    "category":"Fiction",
+    "image":"https://m.media-amazon.com/images/I/71+n2VSAiXS._AC_UF1000,1000_QL80_.jpg",
+    "url":"https://manybooks.net/titles/wellshgetext92timem11.html"
+
+    
+  },
+  {
+    "id":13,
+    "name": "Mary Roberts Rinehart",
+    "title":"The After House",
+    "price":0,
+    "category":"Mystery",
+    "image":"https://m.media-amazon.com/images/I/617Kz+9-n8L._AC_UF1000,1000_QL80_.jpg",
+    "url":"https://manybooks.net/titles/rinehartetext00ftrhs10.html"
+  },
+   {
+    "id":14,
+    "name": "Sword Of Shiva By Kevin Missal",
+    "title":"Mahayoddha Kalki",
+    "price":4.39,
+    "category":"Fiction",
+    "image":"https://m.media-amazon.com/images/I/710-B3pVSLL._SY466_.jpg",
+    "url":"https://www.amazon.in/dp/9389432960/ref=asc_df_9389432960/?tag=googleshopmob-21&gad_source=1"
+  },
+  {
+    "id":15,
+    "name": "Arthur Conan Doyle",
+    "title":"Sherlock Holmes Series",
+    "price":15.39,
+    "category":"Fiction",
+    "image":"https://rukminim2.flixcart.com/image/850/1000/xif0q/book/r/u/9/the-complete-novels-of-sherlock-holmes-sir-arthur-conan-doyle-original-imagrjgdnddgkzh7.jpeg?q=90&crop=false",
+    "url":"https://www.amazon.in/Sherlock-Holmes-Complete-Collection-Arthur/dp/9390213568"
+  },
+  {
+    "id":16,
+    "name": "Dalai Lama & Howard C.Cutler ",
+    "title":"THE ART OF HAPPINESS",
+    "price":5.39,
+    "category":"Spirtual",
+    "image":"https://m.media-amazon.com/images/I/71g3GNPZplL._AC_UF1000,1000_QL80_.jpg",
+    "url":"https://www.amazon.in/dp/0340750154/ref=asc_df_0340750154/?tag=googleshopmob-21&gad_source=1"
+  }
+]
+
