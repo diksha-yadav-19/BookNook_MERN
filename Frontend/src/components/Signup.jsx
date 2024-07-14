@@ -43,7 +43,7 @@ export default function Signup() {
       password: data.password,
     };
     await axios
-      .post("http://https://book-nook-api-tawny.vercel.app/user/signup", userInfo)
+      .post("https://book-nook-api-tawny.vercel.app/user/signup", userInfo)
       .then((res) => {
         console.log(res.data);
         if (res.data) {
