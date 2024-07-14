@@ -49,7 +49,7 @@ export default function Navbar() {
   const handleSearch = async () => {
     try {
       const response = await axios.get(
-        `http://https://book-nook-api-tawny.vercel.app/book/search?query=${searchQuery}`
+        `https://book-nook-api-tawny.vercel.app/book/search?query=${searchQuery}`
       );
       setSearchResults(response.data);
     } catch (error) {
