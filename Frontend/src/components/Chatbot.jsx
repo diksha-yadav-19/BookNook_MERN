@@ -21,7 +21,7 @@ const SearchBooks = ({ steps }) => {
   const [books, setBooks] = useState([]);
 
   useEffect(() => {
-    fetch(`http://localhost:4001/book/search?query=${query}`)
+    fetch(`https://book-nook-api-tawny.vercel.app/book/search?query=${query}`)
       .then((response) => response.json())
       .then((data) => setBooks(data))
       .catch((error) => console.error("Error fetching books:", error));
