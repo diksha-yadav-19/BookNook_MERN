@@ -7,7 +7,6 @@ import Contact from "./components/Contact";
 import { Toaster } from "react-hot-toast";
 import { useAuth } from "./context/AuthProvider";
 import About from "./components/About";
-import BookNookChatBot from "./components/Chatbot";
 
 export default function App() {
   const [authUser, setAuthUser] = useAuth();
@@ -27,7 +26,6 @@ export default function App() {
           <Route path="/about" element={<About />}></Route>
         </Routes>
         <Toaster />
-        <BookNookChatBot />
       </div>
     </>
   );
