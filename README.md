@@ -6,7 +6,7 @@ Welcome to the **BookNook** website! This project is a user-friendly online plat
 
 - 🔍 **Book Search**: Users can search for books by title or category.
 - 📚 **Book Recommendations**: Provides users with curated book suggestions.
-- 📞 **Contact Support**: Offers users the ability to reach out for help.
+- 📞 **Contact Support Using Emailjs**: Offers users the ability to reach out for help.
 - 🤖 **Botpress Chatbot Integration**: An interactive chatbot is available for real-time assistance.
 
 ## 🛠 Tech Stack
