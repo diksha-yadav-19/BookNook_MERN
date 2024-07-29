@@ -29,8 +29,6 @@ Welcome to the **BookNook** website! This project is a user-friendly online plat
   npm install
   npm run dev
 
-### 🙏 Acknowledgments
-Thanks to Botpress for their chatbot framework.
-Inspiration from various book-related websites.
+
 
 
